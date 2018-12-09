@@ -8,10 +8,17 @@ clone the repositroy:-
 git clone https://github.com/akirademoss/imageOps/
 ```
 
-run the program in terminal:-
+Compile the program in terminal:-
 
 ```
 javac Test
 ```
 
-From here simply follow the prompts
+
+Run the program:-
+
+```
+java Test
+```
+
+
