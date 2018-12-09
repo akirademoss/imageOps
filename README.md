@@ -1,6 +1,5 @@
 # imageOps
 
-## Simple program
 
 clone the repositroy:-
 
