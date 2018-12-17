@@ -10,7 +10,7 @@ git clone https://github.com/akirademoss/imageOps/
 Compile the program in terminal:-
 
 ```
-javac Test
+javac Test.java
 ```
 
 
